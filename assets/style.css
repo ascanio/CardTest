@@ -84,4 +84,5 @@ html {
 .earnings .digits sub {
   font-size: 26px;
   font-weight: 200;
+  margin-left: -12px;
 }
